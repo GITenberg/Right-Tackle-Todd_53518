@@ -1,0 +1,34 @@
+_repo: Right-Tackle-Todd_53518
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Crump, Leslie
+    birthdate: 1894
+    deathdate: 1962
+    gutenberg_agent_id: '44200'
+    url: http://www.gutenberg.org/2009/agents/44200
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2016-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Football -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- GITenberg
+title: Right Tackle Todd
+url: http://www.gutenberg.org/ebooks/53518
